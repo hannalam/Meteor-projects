@@ -5,7 +5,7 @@ In this course, I've learn the full stack skills for building a dynamic website 
 
 This app is a virtual wallet that client can input data, and server will response the appropriately.
 
-@tailwindcss is used for UI elements
+@tailwindcss @tailwindui are used for CSS & UI elements
 
 @noSQL is used to store data
 
