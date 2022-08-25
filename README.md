@@ -6,7 +6,7 @@ In this course, I've learn the full stack skills for building a dynamic website 
 
 This app is a virtual wallet that client can input data, and server will response the appropriately.
 
-@tailwind is used for UI CSS elements
+@tailwindcss is used for UI elements
 @noSQL is used to store data
 @mongoDB, minimongo
 @meteor cloud is used to deploy the app in the galaxy
